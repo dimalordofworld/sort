@@ -1,0 +1,13 @@
+digraph "C:/Test/WpfTest" {
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  subgraph clusterdir_6d5c217c9eae548e9081888f919d6b07 {
+    graph [ bgcolor="#ddddee", pencolor="black", label="Test" fontname="Helvetica", fontsize="10", URL="dir_6d5c217c9eae548e9081888f919d6b07.html"]
+  subgraph clusterdir_7bd9b77b4b311e5afa4b9769fb29027f {
+    graph [ bgcolor="#eeeeff", pencolor="black", label="" URL="dir_7bd9b77b4b311e5afa4b9769fb29027f.html"];
+    dir_7bd9b77b4b311e5afa4b9769fb29027f [shape=plaintext label="WpfTest"];
+    dir_43c92ecf0902ef1892d8bd991fbcc710 [shape=box label="Sort" color="red" fillcolor="white" style="filled" URL="dir_43c92ecf0902ef1892d8bd991fbcc710.html"];
+  }
+  }
+}

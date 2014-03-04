@@ -1,0 +1,13 @@
+digraph "C:/Test/WpfTest/Sort" {
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  subgraph clusterdir_7bd9b77b4b311e5afa4b9769fb29027f {
+    graph [ bgcolor="#ddddee", pencolor="black", label="WpfTest" fontname="Helvetica", fontsize="10", URL="dir_7bd9b77b4b311e5afa4b9769fb29027f.html"]
+  subgraph clusterdir_43c92ecf0902ef1892d8bd991fbcc710 {
+    graph [ bgcolor="#eeeeff", pencolor="black", label="" URL="dir_43c92ecf0902ef1892d8bd991fbcc710.html"];
+    dir_43c92ecf0902ef1892d8bd991fbcc710 [shape=plaintext label="Sort"];
+    dir_ba9a08b7df02a11ac02ecdf70a08e4f5 [shape=box label="Sort" color="black" fillcolor="white" style="filled" URL="dir_ba9a08b7df02a11ac02ecdf70a08e4f5.html"];
+  }
+  }
+}

@@ -1,0 +1,9 @@
+digraph "C:/Test/WpfTest/Sort/Sort" {
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  subgraph clusterdir_43c92ecf0902ef1892d8bd991fbcc710 {
+    graph [ bgcolor="#ddddee", pencolor="black", label="Sort" fontname="Helvetica", fontsize="10", URL="dir_43c92ecf0902ef1892d8bd991fbcc710.html"]
+  dir_ba9a08b7df02a11ac02ecdf70a08e4f5 [shape=box, label="Sort", style="filled", fillcolor="#eeeeff", pencolor="black", URL="dir_ba9a08b7df02a11ac02ecdf70a08e4f5.html"];
+  }
+}
